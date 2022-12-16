@@ -1,0 +1,10 @@
+{
+    "apiServer": {
+        "url": "https://localhost:21016",
+        "version": "v1"
+      },
+    "apiCredential":{
+        "username": "Administrator",
+        "password": "Admin2023"
+    }
+}

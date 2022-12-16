@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './layout.component';","map":{"version":3,"mappings":"AAAA,cAAc,oBAAoB","names":[],"sourceRoot":"","sources":["C:\\Users\\AlvaroHidalgoDiaz\\Documents\\Code\\PwcExam\\src\\app\\components\\layout\\index.ts"],"sourcesContent":["export * from './layout.component';\r\n"]},"metadata":{},"sourceType":"module","externalDependencies":[]}
