@@ -1,1 +1,0 @@
-{"ast":null,"code":"export * from './dashboard.component';","map":{"version":3,"mappings":"AAAA,cAAc,uBAAuB","names":[],"sourceRoot":"","sources":["C:\\Users\\AlvaroHidalgoDiaz\\Documents\\Code\\PwcExam\\src\\app\\components\\dashboard\\index.ts"],"sourcesContent":["export * from './dashboard.component';\r\n"]},"metadata":{},"sourceType":"module","externalDependencies":[]}
